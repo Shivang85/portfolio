@@ -1,0 +1,119 @@
+.node {
+    font-size: 75px;
+}
+
+.card {
+    margin: auto;
+    float: none;
+    margin-bottom: 10px;
+    display: block;
+    width: 100%
+}
+
+.TACO {
+    width: 100%;
+    margin: auto;
+}
+.Android{
+    width: 100%;
+    margin: auto;
+}
+
+.HPE {
+    width: 100%;
+    margin: auto;
+}
+
+.Android {
+    margin: auto;
+    display: block;
+}
+
+.Android:hover {
+    cursor: pointer;
+}
+.portfolio-caption {
+    display: block;
+    margin: auto;
+    text-align: left;
+}
+#contact {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.container-fluid {
+    padding: 0
+}
+
+#projects #skills #contact {
+    /*    background-color: #e9ecef;*/
+    /*     padding: 10px; */
+    padding: 50px;
+}
+
+#contact {
+    background-color: #e9ecef;
+}
+
+.viz {
+    display: block;
+    width: 100%;
+    height: 350px;
+}
+
+body {
+    padding: 0px
+}
+
+footer {
+    background-color: #212529;
+}
+
+hr {
+    background-color: #191918;
+    border: 0 none;
+    color: black;
+    height: 2px;
+}
+
+.amex {
+    width: 80%;
+    height: auto;
+}
+
+.heading {
+    margin-bottom: 1rem;
+}
+
+.bg {
+    background-color: #e9ecef;
+}
+
+.test {
+    font: outline;
+    font-weight: 180;
+}
+
+b,
+strong {
+    font-weight: 700;
+}
+
+.highlighted-heading {
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+}
+
+.pad {
+    padding: 15px;
+}
+.img-fluid {
+    max-width: 50%;
+    height: auto;
+}
+.image-row{
+    display: flex;
+    justify-content: center;
+}
