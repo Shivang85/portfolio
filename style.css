@@ -47,9 +47,8 @@
 }
 
 #projects #skills #contact {
-    /*    background-color: #e9ecef;*/
-    /*     padding: 10px; */
     padding: 50px;
+    display: grid;
 }
 
 #contact {
@@ -116,4 +115,21 @@ strong {
 .image-row{
     display: flex;
     justify-content: center;
+}
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.left-container {
+    background-color: #e9ecef;
+    margin: 20px;
+    padding: 20px;
+    image-rendering: auto;
+}
+
+.right-container {
+    background-color: #e9ecef;
+    margin: 20px;
+    padding: 20px;
 }
