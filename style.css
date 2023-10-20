@@ -34,8 +34,8 @@
 }
 .portfolio-caption {
     display: block;
-    margin: auto;
-    text-align: left;
+    margin: 40px;
+    text-align: center;
 }
 #contact {
     padding-top: 50px;
@@ -77,7 +77,7 @@ hr {
 }
 
 .amex {
-    width: 80%;
+    width: 50%;
     height: auto;
 }
 
@@ -122,14 +122,26 @@ strong {
 }
 
 .left-container {
+    text-align: center;
     background-color: #e9ecef;
     margin: 20px;
     padding: 20px;
     image-rendering: auto;
 }
 
-.right-container {
+.right-container .image-row img{
+    display: inline-block; /* Make images inline-block elements */
+    margin: 10px;
     background-color: #e9ecef;
     margin: 20px;
     padding: 20px;
 }
+#work-experience-ig{
+    margin: auto
+}
+.TACO{
+    width: 600px;
+    height: 300px;
+    margin: 30px;
+}
+
